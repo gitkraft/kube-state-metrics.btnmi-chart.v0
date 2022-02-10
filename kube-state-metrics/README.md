@@ -1,9 +1,13 @@
 <!--- app-name: Kube State Metrics -->
 
-# kube-state-metrics
+# Kube State Metrics packaged by Bitnami
 
-[kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
+kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
 
+[Overview of Kube State Metrics](https://github.com/kubernetes/kube-state-metrics)
+
+Trademarks: This software listing is packaged by Bitnami. The respective trademarks mentioned in the offering are owned by the respective companies, and use of them does not imply any affiliation or endorsement.
+                           
 ## TL;DR
 
 ```bash
@@ -202,7 +206,7 @@ As an alternative, use one of the preset configurations for pod affinity, pod an
 
 ## Troubleshooting
 
-Find more information about how to deal with common errors related to Bitnami’s Helm charts in [this troubleshooting guide](https://docs.bitnami.com/general/how-to/troubleshoot-helm-chart-issues).
+Find more information about how to deal with common errors related to Bitnami's Helm charts in [this troubleshooting guide](https://docs.bitnami.com/general/how-to/troubleshoot-helm-chart-issues).
 
 ## Upgrading
 
